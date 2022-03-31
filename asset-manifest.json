@@ -1,14 +1,14 @@
 {
-  "main.css": "/foreign-exchange-currency/static/css/main.14368ae8.chunk.css",
-  "main.js": "/foreign-exchange-currency/static/js/main.47e0d042.chunk.js",
-  "main.js.map": "/foreign-exchange-currency/static/js/main.47e0d042.chunk.js.map",
-  "runtime~main.js": "/foreign-exchange-currency/static/js/runtime~main.45fa3cfc.js",
-  "runtime~main.js.map": "/foreign-exchange-currency/static/js/runtime~main.45fa3cfc.js.map",
-  "static/js/2.4f9e2712.chunk.js": "/foreign-exchange-currency/static/js/2.4f9e2712.chunk.js",
-  "static/js/2.4f9e2712.chunk.js.map": "/foreign-exchange-currency/static/js/2.4f9e2712.chunk.js.map",
+  "main.css": "/foreign-exchange-currency/static/css/main.ca03e00f.chunk.css",
+  "main.js": "/foreign-exchange-currency/static/js/main.7e1822a9.chunk.js",
+  "main.js.map": "/foreign-exchange-currency/static/js/main.7e1822a9.chunk.js.map",
+  "static/js/1.f94ec7e8.chunk.js": "/foreign-exchange-currency/static/js/1.f94ec7e8.chunk.js",
+  "static/js/1.f94ec7e8.chunk.js.map": "/foreign-exchange-currency/static/js/1.f94ec7e8.chunk.js.map",
+  "runtime~main.js": "/foreign-exchange-currency/static/js/runtime~main.7d94187d.js",
+  "runtime~main.js.map": "/foreign-exchange-currency/static/js/runtime~main.7d94187d.js.map",
+  "static/media/loading.gif": "/foreign-exchange-currency/static/media/loading.3e803924.gif",
+  "static/css/main.ca03e00f.chunk.css.map": "/foreign-exchange-currency/static/css/main.ca03e00f.chunk.css.map",
   "index.html": "/foreign-exchange-currency/index.html",
-  "precache-manifest.5b5e782058375df0711d03e44ea39612.js": "/foreign-exchange-currency/precache-manifest.5b5e782058375df0711d03e44ea39612.js",
-  "service-worker.js": "/foreign-exchange-currency/service-worker.js",
-  "static/css/main.14368ae8.chunk.css.map": "/foreign-exchange-currency/static/css/main.14368ae8.chunk.css.map",
-  "static/media/loading.gif": "/foreign-exchange-currency/static/media/loading.3e803924.gif"
+  "precache-manifest.04d7e250389ba9e402d78b8119981c23.js": "/foreign-exchange-currency/precache-manifest.04d7e250389ba9e402d78b8119981c23.js",
+  "service-worker.js": "/foreign-exchange-currency/service-worker.js"
 }
