@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7e1822a9aeb541639788",
+    "revision": "2d3db091dfb5e604b566",
     "url": "/foreign-exchange-currency/static/css/main.ca03e00f.chunk.css"
   },
   {
-    "revision": "7e1822a9aeb541639788",
-    "url": "/foreign-exchange-currency/static/js/main.7e1822a9.chunk.js"
+    "revision": "2d3db091dfb5e604b566",
+    "url": "/foreign-exchange-currency/static/js/main.2d3db091.chunk.js"
   },
   {
     "revision": "f94ec7e871b4f2e3b3f8",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/foreign-exchange-currency/static/media/loading.3e803924.gif"
   },
   {
-    "revision": "5b99cd92ee1df5f9b00dbc5f83460803",
+    "revision": "609e341c0d83dfdb7c67f85dbcbbf87b",
     "url": "/foreign-exchange-currency/index.html"
   }
 ];
